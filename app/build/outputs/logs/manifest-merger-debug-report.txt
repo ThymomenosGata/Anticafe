@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.jjoe64:graphview:4.2.1] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/graphview-4.2.1.aar/11d0c95dbe982dacfe35f4ead70fe2d0/AndroidManifest.xml:2:1-14:12
+MERGED from [im.dacer:AndroidCharts:1.0.4] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/AndroidCharts-1.0.4.aar/9fd455ad7aa04191af8803f2bd4239c0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/2ada52278223519ade89b6a299c30227/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/de5de2bde6fc2a0895f513b1ff8bc03e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9eeace529e29c1ac8880df85002f0701/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ad1465aff0dca627d231dbc5bd91cfe9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/149b2158358e546c2b66c2c65cf5be90/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/23a8fc1cda40cb8d3c5cb5c0c7db1760/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/94e9bc4ec452e932351aa6ffd89585cf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6c94bdc96400def0c4dcb83eb8f17493/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/f9a793cec6b9332628080f079254bff9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a26ebe2b46495496146a26fcf9d370d1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a3b9849872b55ddbe276d1b696509961/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/82a65c14048fd7477022dba1aa45afe7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a47c7d6763ebfd973a75f944b1182d5d/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/189e1bbb0d91a77c64a30d30725ea3f8/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml
+		ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml
+		ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:5:5-29:19
+MERGED from [com.jjoe64:graphview:4.2.1] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/graphview-4.2.1.aar/11d0c95dbe982dacfe35f4ead70fe2d0/AndroidManifest.xml:11:5-12:19
+MERGED from [com.jjoe64:graphview:4.2.1] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/graphview-4.2.1.aar/11d0c95dbe982dacfe35f4ead70fe2d0/AndroidManifest.xml:11:5-12:19
+MERGED from [im.dacer:AndroidCharts:1.0.4] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/AndroidCharts-1.0.4.aar/9fd455ad7aa04191af8803f2bd4239c0/AndroidManifest.xml:10:5-11:19
+MERGED from [im.dacer:AndroidCharts:1.0.4] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/AndroidCharts-1.0.4.aar/9fd455ad7aa04191af8803f2bd4239c0/AndroidManifest.xml:10:5-11:19
+MERGED from [com.android.support:design:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/2ada52278223519ade89b6a299c30227/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/2ada52278223519ade89b6a299c30227/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/de5de2bde6fc2a0895f513b1ff8bc03e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/de5de2bde6fc2a0895f513b1ff8bc03e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9eeace529e29c1ac8880df85002f0701/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9eeace529e29c1ac8880df85002f0701/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ad1465aff0dca627d231dbc5bd91cfe9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ad1465aff0dca627d231dbc5bd91cfe9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/149b2158358e546c2b66c2c65cf5be90/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/149b2158358e546c2b66c2c65cf5be90/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/23a8fc1cda40cb8d3c5cb5c0c7db1760/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/23a8fc1cda40cb8d3c5cb5c0c7db1760/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/94e9bc4ec452e932351aa6ffd89585cf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/94e9bc4ec452e932351aa6ffd89585cf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6c94bdc96400def0c4dcb83eb8f17493/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6c94bdc96400def0c4dcb83eb8f17493/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/f9a793cec6b9332628080f079254bff9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/f9a793cec6b9332628080f079254bff9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a26ebe2b46495496146a26fcf9d370d1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a26ebe2b46495496146a26fcf9d370d1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a3b9849872b55ddbe276d1b696509961/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a3b9849872b55ddbe276d1b696509961/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/82a65c14048fd7477022dba1aa45afe7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/82a65c14048fd7477022dba1aa45afe7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a47c7d6763ebfd973a75f944b1182d5d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a47c7d6763ebfd973a75f944b1182d5d/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/189e1bbb0d91a77c64a30d30725ea3f8/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/189e1bbb0d91a77c64a30d30725ea3f8/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:9:9-46
+	android:icon
+		ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:7:9-41
+	android:allowBackup
+		ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.yougen.anticafemanager.MainActivity
+ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:screenOrientation
+		ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:15:13-49
+	android:label
+		ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:13:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.yougen.anticafemanager.Settings
+ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:23:9-28:20
+	android:screenOrientation
+		ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:27:13-49
+	android:label
+		ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:25:13-51
+	android:theme
+		ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml:24:13-63
+uses-sdk
+INJECTED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml
+INJECTED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml
+MERGED from [com.jjoe64:graphview:4.2.1] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/graphview-4.2.1.aar/11d0c95dbe982dacfe35f4ead70fe2d0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.2.1] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/graphview-4.2.1.aar/11d0c95dbe982dacfe35f4ead70fe2d0/AndroidManifest.xml:7:5-9:41
+MERGED from [im.dacer:AndroidCharts:1.0.4] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/AndroidCharts-1.0.4.aar/9fd455ad7aa04191af8803f2bd4239c0/AndroidManifest.xml:6:5-8:41
+MERGED from [im.dacer:AndroidCharts:1.0.4] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/AndroidCharts-1.0.4.aar/9fd455ad7aa04191af8803f2bd4239c0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:design:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/2ada52278223519ade89b6a299c30227/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/2ada52278223519ade89b6a299c30227/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/de5de2bde6fc2a0895f513b1ff8bc03e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/de5de2bde6fc2a0895f513b1ff8bc03e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9eeace529e29c1ac8880df85002f0701/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9eeace529e29c1ac8880df85002f0701/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ad1465aff0dca627d231dbc5bd91cfe9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ad1465aff0dca627d231dbc5bd91cfe9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/149b2158358e546c2b66c2c65cf5be90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/149b2158358e546c2b66c2c65cf5be90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/23a8fc1cda40cb8d3c5cb5c0c7db1760/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/23a8fc1cda40cb8d3c5cb5c0c7db1760/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/94e9bc4ec452e932351aa6ffd89585cf/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/94e9bc4ec452e932351aa6ffd89585cf/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6c94bdc96400def0c4dcb83eb8f17493/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6c94bdc96400def0c4dcb83eb8f17493/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/f9a793cec6b9332628080f079254bff9/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/f9a793cec6b9332628080f079254bff9/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a26ebe2b46495496146a26fcf9d370d1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a26ebe2b46495496146a26fcf9d370d1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a3b9849872b55ddbe276d1b696509961/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a3b9849872b55ddbe276d1b696509961/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/82a65c14048fd7477022dba1aa45afe7/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/82a65c14048fd7477022dba1aa45afe7/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a47c7d6763ebfd973a75f944b1182d5d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a47c7d6763ebfd973a75f944b1182d5d/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/189e1bbb0d91a77c64a30d30725ea3f8/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/189e1bbb0d91a77c64a30d30725ea3f8/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml
+INJECTED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/2ada52278223519ade89b6a299c30227/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml
+		ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml
+		ADDED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/2ada52278223519ade89b6a299c30227/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/de5de2bde6fc2a0895f513b1ff8bc03e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/de5de2bde6fc2a0895f513b1ff8bc03e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ad1465aff0dca627d231dbc5bd91cfe9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ad1465aff0dca627d231dbc5bd91cfe9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/149b2158358e546c2b66c2c65cf5be90/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/149b2158358e546c2b66c2c65cf5be90/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/23a8fc1cda40cb8d3c5cb5c0c7db1760/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/23a8fc1cda40cb8d3c5cb5c0c7db1760/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/94e9bc4ec452e932351aa6ffd89585cf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/94e9bc4ec452e932351aa6ffd89585cf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6c94bdc96400def0c4dcb83eb8f17493/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/6c94bdc96400def0c4dcb83eb8f17493/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/f9a793cec6b9332628080f079254bff9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/f9a793cec6b9332628080f079254bff9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a26ebe2b46495496146a26fcf9d370d1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a26ebe2b46495496146a26fcf9d370d1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a3b9849872b55ddbe276d1b696509961/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/a3b9849872b55ddbe276d1b696509961/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/82a65c14048fd7477022dba1aa45afe7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/82a65c14048fd7477022dba1aa45afe7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a47c7d6763ebfd973a75f944b1182d5d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/a47c7d6763ebfd973a75f944b1182d5d/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/2ada52278223519ade89b6a299c30227/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/2ada52278223519ade89b6a299c30227/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/189e1bbb0d91a77c64a30d30725ea3f8/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/189e1bbb0d91a77c64a30d30725ea3f8/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/189e1bbb0d91a77c64a30d30725ea3f8/AndroidManifest.xml:26:13-58

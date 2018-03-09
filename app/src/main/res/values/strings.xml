@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Anticafe Manager</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_Charts">Charts</string>
+    <string name="title_Tables">Tables</string>
+    <string name = "title_Settings">Settings</string>
+
+    <string name="hookah">Кальян</string>
+    <string name="VIP">VIP</string>
+    <string name="NonLimited">Non-limited time</string>
+    <string name="tea">Чай</string>
+    <string name="hard">Тяжелый</string>
+    <string name="normal">Средний</string>
+    <string name="ligth">Легкий</string>
+    <string name="numberOfTable">Номер стола</string>
+    <string name="countPiples">Количество человек</string>
+
+    <string name="ok">Oк</string>
+    <string name="cancle">Отмена</string>
+
+    <string name="errorTable">Введите номер стола</string>
+    <string name="errorPeople">Введите количество человек</string>
+
+    <string name="hintTable">Номер стола</string>
+    <string name="hintPeoples">Кол-во человек</string>
+
+    <string name="addNewPaymants">Добавить новый заказ</string>
+
+
+    <string name="titlePriceNotVip">Цены за минуту в обычном зале</string>
+    <string name="prefPriceForMinBefore">Цена за минуту</string>
+    <string name="optPriceForMinBefore">Введите цену за минуту в обычном зале</string>
+    <string name="titleHookah">Цены за кальян</string>
+    <string name="activateHookah">Активируйте, если вам нужны кальяны</string>
+    <string name="enterPrice">Введите цену</string>
+    <string name="promote">Цены</string>
+    <string name="hardHookah">Тяжелый кальян</string>
+    <string name="normalHookah">Средний кальян</string>
+    <string name="lightHookah">Легкий кальян</string>
+    <string name="priceFVIP">Цена за VIP-зал</string>
+    <string name="activteVIP">Активируйте, если у вас есть VIP залы</string>
+    <string name="priceBefor">Цена за минуту</string>
+    <string name="enterPriceBefor">Введите цену за минуту в VIP зале</string>
+    <string name="priceStopCheck">Цена для безлимитного времени</string>
+    <string name="stopCheck">Non-Limited</string>
+    <string name="activateStopCheck">Активируйте, если у вас есть услуга безлимитного времени</string>
+
+
+
+</resources>

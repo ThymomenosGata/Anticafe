@@ -1,0 +1,90 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/thymomenosgata/Android/Sdk/Anticafe/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/home/thymomenosgata/Android/Sdk/Anticafe/app/src/main/res/values-v23/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "591"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "2646",
+                        "endLines": "45",
+                        "endColumns": "12",
+                        "endOffsets": "3168"
+                    }
+                },
+                {
+                    "source": "/home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/de5de2bde6fc2a0895f513b1ff8bc03e/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
+                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
+                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
+                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/thymomenosgata/Android/Sdk/AnticafeManager/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/de5de2bde6fc2a0895f513b1ff8bc03e/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
+                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
+                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
+                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
+                    }
+                },
+                {
+                    "source": "/home/thymomenosgata/Android/Sdk/AnticafeManager/app/src/main/res/values-v23/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "557"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "2646",
+                        "endLines": "45",
+                        "endColumns": "12",
+                        "endOffsets": "3136"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/thymomenosgata/Android/Sdk/projects/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/home/thymomenosgata/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/de5de2bde6fc2a0895f513b1ff8bc03e/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
+                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
+                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
+                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
+                    }
+                }
+            ]
+        }
+    ]
+}

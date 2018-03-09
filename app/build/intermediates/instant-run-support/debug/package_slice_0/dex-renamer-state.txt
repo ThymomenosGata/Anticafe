@@ -1,0 +1,4 @@
+#Sun Dec 17 12:21:01 MSK 2017
+base.0=/home/thymomenosgata/Android/Sdk/Anticafe/app/build/intermediates/transforms/dexMerger/debug/20
+renamed.0=classes.dex
+file.0=/home/thymomenosgata/Android/Sdk/Anticafe/app/build/intermediates/transforms/dexMerger/debug/20/classes.dex

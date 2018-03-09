@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/titlePriceNotVip">
+        <EditTextPreference
+            android:key="PriceAC"
+            android:title="@string/prefPriceForMinBefore"
+            android:summary="@string/optPriceForMinBefore"/>
+        </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/titleHookah">
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key = "Hookah"
+        android:summary="@string/activateHookah"
+        android:title="@string/hookah"
+        />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="@string/promote"
+        android:dependency="Hookah">
+
+        <EditTextPreference
+            android:key="HardHookah"
+            android:title="@string/hardHookah"
+            android:summary="@string/enterPrice"/>
+        <EditTextPreference
+            android:key="NormalHookah"
+            android:title="@string/normalHookah"
+            android:summary="@string/enterPrice"/>
+        <EditTextPreference
+            android:key="LightHookah"
+            android:title="@string/lightHookah"
+            android:summary="@string/enterPrice"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/priceFVIP">
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key = "VIP"
+        android:summary="@string/activteVIP"
+        android:title="@string/VIP"
+        android:checked="false"
+        />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/promote"
+        android:dependency="VIP">
+        <EditTextPreference
+            android:key="PriceUN"
+            android:title="@string/priceBefor"
+            android:summary="@string/enterPriceBefor"/>
+    </PreferenceCategory>
+
+
+    <PreferenceCategory
+        android:title="@string/priceStopCheck">
+        <SwitchPreference
+        android:defaultValue="false"
+        android:key = "Stop"
+        android:summary="@string/activateStopCheck"
+        android:title="@string/stopCheck"
+        android:checked="false"
+        />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:dependency="Stop"
+        android:title="@string/promote">
+        <EditTextPreference
+            android:key="StopCheck"
+            android:summary="@string/enterPrice"
+            android:title="@string/stopCheck" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
